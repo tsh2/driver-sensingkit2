@@ -18,10 +18,10 @@
 		"driver"
 	],
 
-	"homepage": "https://github.com/me-box/driver-sensingkit",
+	"homepage": "https://github.com/tsh2/driver-sensingkit",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/me-box/driver-sensingkit.git"
+		"url": "git+https://github.com/tsh2/driver-sensingkit.git"
 	},
 
 	"network-permissions": [
